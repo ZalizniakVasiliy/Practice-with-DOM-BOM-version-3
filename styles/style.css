@@ -1,0 +1,11 @@
+* {
+  box-sizing: border-box;
+}
+
+.my-object {
+  margin-top: 15px;
+  padding: 10px;
+  border: 1px solid rgb(0, 38, 143);
+  border-radius: 15px;
+  background-color: rgb(220, 255, 235);
+}
