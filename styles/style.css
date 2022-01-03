@@ -9,3 +9,8 @@
   border-radius: 15px;
   background-color: rgb(220, 255, 235);
 }
+
+/* input:invalid {
+  border: 1px solid red;
+  background-color: rgb(255, 225, 225);
+} */
